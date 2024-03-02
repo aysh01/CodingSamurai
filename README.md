@@ -1,21 +1,24 @@
-
-# Weather Forecast Application
-
-In, this we've to create a simple Weather Forecast Application in python that provides users with current weather info. for a specified location. This, project will involvemaking API request, parsing JSON data, and displaying the info. to the user..
-
-
-
-
-Key Features you can include:
-
-Location Input: Allow users to enter a cityu or location for which they want to get the weather forecast.
-
-API Integration: Use a weather API (eg. OpenWeatherMap) to fetch current weather data for the specified location.
-
-Display weather data: present the weather info. to the user, including 
-temperature / humidity / wind speed, and weather conditions (e.g. sunny, cloudy, rainy).
-
-Unit Conversion: Provide options for users to choose between Celksuis and Fahrenheit for temperature units.
-
-Error Handling: Handle cases wehre the user enters an invalid location or the API request fails gracefully.
-
+<div id="header" align="center">
+  <a href="https://technohacks.co.in/">
+  <img src="https://tse1.mm.bing.net/th?id=OIP.mPN0qDIeVxosJZGSZS7IJQHaHa&pid=Api" width="100"/>
+  </a><br>
+    <a href="https://ayssh.netlify.app">
+      <img src="https://img.shields.io/badge/Website-blue?logo=dependabot" alt="Website"/>
+  </a><br>
+        <img src="https://komarev.com/ghpvc/?username=aysh01&style=flat-square&color=blue" alt=""/>
+<h1>
+  TechnoHacks Internship
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+    <div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/><br>
+      <hr>
+      <div align="left">
+:woman_technologist: This, is a TechnoHacks Internship Page..<br>
+      Here, you'll get all Internship task done by me during my Java Programming Internship in TechnoHacks. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+:mailbox:How to reach me: <a href="https://www.linkedin.com/in/aayush-kantak-88a7b4271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a><br>
+      </div>
+</div>
+</div>
